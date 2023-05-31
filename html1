@@ -11,7 +11,8 @@
         <h1 class="hmeny">Меню</h1>
     </section>
         
-    <iframe class="marka1" width="560" height="200" src="https://www.youtube.com/embed/WCRl4z7QAVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <img class="marka1" src="https://www.avtotachki.com/wp-content/uploads/2020/02/top_10_nadejnih_avto_2.jpg">
+    
    
     <h2 class="m1">Топ 10 - BMW</h2>
     <p class="p1">Десяте місце серед провідних виробників машин займає німецька марка автомобіля BMW. Адже нові машини цієї компанії часто ламаються. Щоб усунути деякі неполадки, необхідно зіткнутися зі складним внутрішнім пристроєм.
